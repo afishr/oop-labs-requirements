@@ -15,7 +15,7 @@ It is important to install the OS, don't just use a virtual machine \
 2. **Install essential tools.** You should install the “starting pack” of a software engineer on your machine. This includes zsh, oh-my-zsh, Git, gcc compiler, your favorite ide/editor.
 
 3. **Create a Git repository.** Write a small hello-world program in C. Compile it using GCC and Make. Commit your changes and push them to your remote repository. \
-Perform all the manipulations with file system, git repository through command line. Don't use graphical interfaces.
+**Perform all the manipulations with file system, source code compilation, git repository through command line exclusively**. Don't use graphical interfaces.
 
 ## Grading Policy
 
@@ -30,7 +30,8 @@ Perform all the manipulations with file system, git repository through command l
 
 ## Presentation
 
-Please, take screenshots during your work: setting up the OS, installing command line tools, initiating git repository, committing and publishing the changes in source code. Upload the screenshots into your previously created repository, and describe your work done in a `README.md` file.
+Please, take screenshots during your work: setting up the OS, installing command line tools, initiating git repository, committing and publishing the changes in source code, compiling the code. Upload the screenshots into your previously created repository, and describe your work done in a `README.md` file. \
+Send the links to your repositories to <alexandr.calugari@isa.utm.md> before the deadline.
 
 ## Deadline
 
