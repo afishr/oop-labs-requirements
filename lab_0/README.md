@@ -32,6 +32,9 @@ Perform all the manipulations with file system, git repository through command l
 
 Please, take screenshots during your work: setting up the OS, installing command line tools, initiating git repository, committing and publishing the changes in source code. Upload the screenshots into your previously created repository, and describe your work done in a `README.md` file.
 
+**Time to complete:** 1 week since you receive the requirements \
+**Each week of lateness will cost you minus *1 point*.**
+
 **Good Luck!**
 
 ## Useful Links
