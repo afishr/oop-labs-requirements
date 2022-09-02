@@ -31,7 +31,7 @@ It is important to install the OS, don't just use a virtual machine \
 ## Presentation
 
 Please, take screenshots during your work: setting up the OS, installing command line tools, initiating git repository, committing and publishing the changes in source code, compiling the code. Upload the screenshots into your previously created repository, and describe your work done in a `README.md` file. \
-Send the links to your repositories to <alexandr.calugari@isa.utm.md> before the deadline.
+Send the links to your repositories to <alexandr.calugari@isa.utm.md> with subject including 'OOP Lab x' before the deadline.
 
 ## Deadline
 
