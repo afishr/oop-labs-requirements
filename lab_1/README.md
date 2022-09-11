@@ -4,6 +4,14 @@
 
 Hi there. In this laboratory work we'll dive into incomprehensible yet beautiful world of data structures. And, to spice the things up, you have to implement this laboratory work in **C programming language**.
 
+## Deadline
+
+**Time to complete:** _**1 week**_ since you receive the requirements \
+_Each week_ of lateness will cost you minus _**1 point**_.
+
+You can present just **one laboratory work per day**, so don't try to present all of them at the end. \
+To be **admitted to midterm, you have to present all laboratories received before it**, so, again, don't procrastinate and ideally present one lab per week.
+
 ## General Requirements
 
 * Lab 0 implemented.
@@ -71,22 +79,20 @@ On the other hand, you can put those data structures to perform something more i
 The minimal requirements to get *6 points* here are: implement either **[Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)** or **[15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle)**. \
 **Important:** this should a be a fully working game with **a menu**, **input handling** and **a visual way to observe the game progress**.
 
-Additional tasks would be:
+If you wanna get more than *6* for this lab, you have to implement additional tasks:
 * Colorful output and clear design (*1 point*)
 * Implement files support to provide saving of the game state and option to resume it (*1 point*)
 * Restart feature (*1 point*)
 * Do/undo feature (*1 point*)
 
-**BONUS:** for receiving *2 extra points* for this laboratory work, implement an algorithm that will solve your game.
+**BONUS:** for receiving *2 extra points* for this laboratory work, implement an algorithm that will solve your game. Bonus points can be used for the future laboratory works. If you gather 10 extra points, you can get 10 by default for any laboratory work.
 
 ## Presentation
 
 Upload your code to a remote repository and send the link to it to <alexandr.calugari@isa.utm.md> with subject including 'OOP Lab 1', **before the deadline**. Once again, use command line to commit and push your changes with Git.
+The presentations itself will be at laboratory classes.
 
-## Deadline
 
-**Time to complete:** _**1 week**_ since you receive the requirements \
-_Each week_ of lateness will cost you minus _**1 point**_.
 
 **Good Luck!**
 
