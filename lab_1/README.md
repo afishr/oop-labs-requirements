@@ -68,7 +68,7 @@ Having in mind the minimal conditions, let's see what operations you can additio
 
 On the other hand, you can put those data structures to perform something more interesting than just some abstract operations. You can implement a small command line game.
 
-The minimal requirements to get *6 points* here are: implement either **Tower of Hanoi** or **15 Puzzle**. \
+The minimal requirements to get *6 points* here are: implement either **[Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)** or **[15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle)**. \
 **Important:** this should a be a fully working game with **a menu**, **input handling** and **a visual way to observe the game progress**.
 
 Additional tasks would be:
