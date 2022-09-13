@@ -90,7 +90,7 @@ If you wanna get more than *6* for this lab, you have to implement additional ta
 ## Presentation
 
 Upload your code to a remote repository and send the link to it to <alexandr.calugari@isa.utm.md> with subject including 'OOP Lab 1', **before the deadline**. Once again, use command line to commit and push your changes with Git.
-The presentations itself will be at laboratory classes.
+The presentations themselves will be at laboratory classes.
 
 
 
