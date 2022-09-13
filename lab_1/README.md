@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hi there. In this laboratory work we'll dive into incomprehensible yet beautiful world of data structures. And, to spice the things up, you have to implement this laboratory work in **C programming language**.
+Hi there. In this laboratory work we'll dive into incomprehensible yet beautiful world of data structures. And, to spice the things up, you have to implement this laboratory work in **C programming language** exclusively.
 
 ## Deadline
 
